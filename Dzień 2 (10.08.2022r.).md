@@ -115,8 +115,6 @@ Kliknij [tu][1], aby otworzyć wyszukiwarkę
 
 ![Imgur](https://i.imgur.com/L7fLWgi.jpg)
 
-Nie wiem czemu nie mogę znaleźć zdjęcia. Musi ono się znajdować w innym miejscu czy jak?
-
 ## Tabela
 
 Nagłówek 1|Nagłówek 2|Nagłówek 3
