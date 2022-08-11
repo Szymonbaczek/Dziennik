@@ -113,7 +113,7 @@ Kliknij [tu][1], aby otworzyć wyszukiwarkę
 
 ### Obrazek
 
-![Logo](Programowanie/10.08.22r./logo.jpg)
+![Imgur](https://i.imgur.com/L7fLWgi.jpg)
 
 Nie wiem czemu nie mogę znaleźć zdjęcia. Musi ono się znajdować w innym miejscu czy jak?
 
